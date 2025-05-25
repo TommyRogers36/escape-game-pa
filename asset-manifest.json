@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/escape-game-pa/static/css/main.c0e3459b.css",
-    "main.js": "/escape-game-pa/static/js/main.e0e8c669.js",
+    "main.css": "/escape-game-pa/static/css/main.b8a0dd0a.css",
+    "main.js": "/escape-game-pa/static/js/main.39e0dba8.js",
     "static/js/453.979de7f1.chunk.js": "/escape-game-pa/static/js/453.979de7f1.chunk.js",
     "static/media/fa-solid-900.ttf": "/escape-game-pa/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/escape-game-pa/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -14,12 +14,12 @@
     "static/media/fa-v4compatibility.ttf": "/escape-game-pa/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/escape-game-pa/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/escape-game-pa/index.html",
-    "main.c0e3459b.css.map": "/escape-game-pa/static/css/main.c0e3459b.css.map",
-    "main.e0e8c669.js.map": "/escape-game-pa/static/js/main.e0e8c669.js.map",
+    "main.b8a0dd0a.css.map": "/escape-game-pa/static/css/main.b8a0dd0a.css.map",
+    "main.39e0dba8.js.map": "/escape-game-pa/static/js/main.39e0dba8.js.map",
     "453.979de7f1.chunk.js.map": "/escape-game-pa/static/js/453.979de7f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0e3459b.css",
-    "static/js/main.e0e8c669.js"
+    "static/css/main.b8a0dd0a.css",
+    "static/js/main.39e0dba8.js"
   ]
 }
