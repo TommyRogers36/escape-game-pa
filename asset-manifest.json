@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/escape-game-pa/static/css/main.c0e3459b.css",
+    "main.js": "/escape-game-pa/static/js/main.e0e8c669.js",
+    "static/js/453.979de7f1.chunk.js": "/escape-game-pa/static/js/453.979de7f1.chunk.js",
+    "static/media/fa-solid-900.ttf": "/escape-game-pa/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/escape-game-pa/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/escape-game-pa/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/escape-game-pa/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/escape-game-pa/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/galerie.png": "/escape-game-pa/static/media/galerie.4b976c635172b58d93fb.png",
+    "static/media/fa-regular-400.woff2": "/escape-game-pa/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/folder.png": "/escape-game-pa/static/media/folder.ab93b5d5dad59607bdfe.png",
+    "static/media/fa-v4compatibility.ttf": "/escape-game-pa/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/escape-game-pa/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/escape-game-pa/index.html",
+    "main.c0e3459b.css.map": "/escape-game-pa/static/css/main.c0e3459b.css.map",
+    "main.e0e8c669.js.map": "/escape-game-pa/static/js/main.e0e8c669.js.map",
+    "453.979de7f1.chunk.js.map": "/escape-game-pa/static/js/453.979de7f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e3459b.css",
+    "static/js/main.e0e8c669.js"
+  ]
+}
